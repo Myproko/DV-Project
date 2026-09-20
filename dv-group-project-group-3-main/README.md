@@ -87,12 +87,6 @@ A centralized state management approach is used, where selected filters are stor
 - Country-level aggregation may mask regional variations  
 - The map reflects total emissions and should be interpreted alongside other visualizations  
 
----
-
-##  TEAM CONTRIBUTION
-All group members contributed equally to their assigned sections as well as to the overall development of the project.
-
----
 
 ##  CONCLUSION
 This project demonstrates how interactive visualization can be used to explore complex relationships between economic development and environmental impact.  
