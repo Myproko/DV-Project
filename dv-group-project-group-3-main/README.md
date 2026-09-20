@@ -1,10 +1,5 @@
 # Mining Dashboard: Mineral Extraction & Economic Development (2015–2024)
 
-**GROUP 3-TEAM MEMBERS** 
-- Marina Prokopets.
-- Ruqaiya Khan. 
-- Nokutenda Manombe.
-- Afzal Patel.
 
 ## OVERVIEW
 This project presents an interactive data visualization dashboard that explores the relationship between mineral extraction and economic development between 2015 and 2024.
